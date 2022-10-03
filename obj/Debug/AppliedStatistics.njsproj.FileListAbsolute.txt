@@ -1,0 +1,3 @@
+D:\AppliedStatistics\obj\Debug\AppliedStatistics.njsprojAssemblyReference.cache
+D:\AppliedStatistics\obj\Debug\AppliedStatistics.njsproj.CoreCompileInputs.cache
+D:\AppliedStatistics\bin\Microsoft.NodejsTools.WebRole.dll
